@@ -28,7 +28,7 @@ I currently research in Federated Learning.
   <summary>Some more stuff 😄</summary> -->
 
 ### 🖥️ My DevSetup
-<img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/Ubuntu-555555.svg?&style=flat-square&logo=Ubuntu&logoColor=F37626"> <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-555555.svg?&style=flat-square&logo=jupyter&logoColor=F37626"> <img src="https://img.shields.io/badge/Ubuntu-555555.svg?&style=flat-square&logo=Ubuntu&logoColor=F37626"> 
+<img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/Ubuntu-555555.svg?&style=flat-square&logo=Ubuntu&logoColor=F37626"> <img src="https://img.shields.io/badge/Jupyter-555555.svg?&style=flat-square&logo=jupyter&logoColor=F37626"> <img src="https://img.shields.io/badge/Docker-555555.svg?&style=flat-square&logo=docker&logoColor=0078D6"> <img src="https://img.shields.io/badge/Kubernetes-555555.svg?&style=flat-square&logo=kubernetes&logoColor=0078D6"> <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white">
   
 ### ⚙️ Some Tool and Tech I use
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
