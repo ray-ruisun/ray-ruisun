@@ -65,8 +65,8 @@ Here are some ideas to get you started:
 </details>
 
 
-### 🚀 Quick Stats
 <details>
+<summary> 🚀 Quick Stats </summary>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ray-ruisun&show_icons=true&line_height=21&theme=react" alt="Rui Sun's Github Stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ray-ruisun&theme=react&line_height=27&layout=compact" />
