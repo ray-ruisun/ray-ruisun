@@ -20,9 +20,30 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.sentinal95@gmail.com)](mailto:ruisun.ray@gmail.com)
 ![](https://visitor-badge.glitch.me/badge?page_id=ray-ruisun.ray-ruisun)
 
-I'm a Ph.D. Candidate at Newcastle University in UK 🇬🇧, supervised by Prof, Rajiv Ranjan.
 
-I currently research in Federated Learning.
+<table width="100%" border="0" cellspacing="15" cellpadding="0">
+<tbody>
+  <tr>
+    <td width="15%">
+        <a href="https://rui-sun.com/images/profile_photo.jpeg"><img alt="Rui Sun" src="https://rui-sun.com/images/profile_photo.jpeg" width="160" border="1"></a>
+    </td>
+    <td>
+    <p align="left"> 
+        I am Rui Sun (<span lang="zh-cn">孙睿</span>), a <span property="tittle">Ph.D. Candidate<span> 
+        at <span property="affiliation">Newcastle University(UK)</span>,
+        supervised by <a href="https://rajivranjan.net/"> Prof. Rajiv Ranjan</a>. 
+        I received my master degree with distinction at <a href="https://www.ncl.ac.uk/">Newcastle University(UK)</a> in 2018,
+        and a bachelor degree at 
+        <a href="https://www.sau.edu.cn/"> Shenyang Aerospace University 
+        (Shenyang, China)</a> in 2016. <br>
+    </p>
+    </td>
+    <td width="45%" >
+        <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ray-ruisun&show_icons=true&include_all_commits=true&count_private=true" alt="ray-ruisun" /> </p>
+    </td>
+   </tr>
+</tbody>
+</table>
 
 <!-- <details>
   <summary>Some more stuff 😄</summary> -->
@@ -43,12 +64,14 @@ I currently research in Federated Learning.
 <code><img height="30" src="https://avatars2.githubusercontent.com/u/1728152?s=200&v=4"></code>  
 </details>
 
+
 ### 🚀 Quick Stats
+<details>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ray-ruisun&show_icons=true&line_height=21&theme=react" alt="Rui Sun's Github Stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ray-ruisun&theme=react&line_height=27&layout=compact" />
 </p>
-
+</details>
 
 <details>
 <summary> 💥 Working on </summary>
