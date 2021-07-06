@@ -80,8 +80,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/WorldAiResearch/ResearchResources">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=WorldAiResearch&repo=ResearchResources&show_owner=true&theme=react" />
 </a>&ensp;
-<a href="https://github.com/ray-ruisun/Deep-Learning">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ray-ruisun&repo=ray-ruisun&show_owner=true&theme=react" />
+<a href="https://github.com/WorldAiResearch/CSUsefulResources">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=WorldAiResearch&repo=CSUsefulResources&show_owner=true&theme=react" />
 </a>
 </p>
 </details>
