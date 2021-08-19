@@ -32,7 +32,7 @@ Here are some ideas to get you started:
         I am Rui Sun (<span lang="zh-cn">孙睿</span>), a <span property="tittle">Ph.D. Candidate<span> 
         at <span property="affiliation">Newcastle University(UK)</span>,
         supervised by <a href="https://rajivranjan.net/"> Prof. Rajiv Ranjan</a>. 
-        I received my master degree with distinction at <a href="https://www.ncl.ac.uk/">Newcastle University(UK)</a> in 2018,
+        I received my master degree with distinction from <a href="https://www.ncl.ac.uk/">Newcastle University(UK)</a> in 2018,
         and a bachelor degree at 
         <a href="https://www.sau.edu.cn/"> Shenyang Aerospace University 
         (Shenyang, China)</a> in 2016. <br>
